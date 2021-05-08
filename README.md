@@ -1,3 +1,1 @@
 
-First Project
-exploring git
